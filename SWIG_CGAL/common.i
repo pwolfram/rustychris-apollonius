@@ -37,7 +37,6 @@
       }
     }
   %}
-  #always load CGAL_Java to get JNI_OnLoad called
   SWIG_CGAL_add_java_loadLibrary_CGAL_Java()  
 %enddef
   
